@@ -1,0 +1,11 @@
+# Ignore the model file
+model.joblib
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore the models directory (if it's not needed in Git)
+models/
+
+# Optionally, you can ignore other potential files, like logs
+*.log
